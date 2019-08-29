@@ -1,0 +1,155 @@
+
+---Downloaded files---
+The import files for: StoreCommerce Default were successfully downloaded!
+Initial max execution time = 130
+Files info:
+Site URL = http://localhost/wppractice
+Data file = E:\xampp\htdocs\wppractice/wp-content/themes/storecommerce/demo-content/default/storecommerce.xml
+Widget file = E:\xampp\htdocs\wppractice/wp-content/themes/storecommerce/demo-content/default/storecommerce.wie
+Customizer file = E:\xampp\htdocs\wppractice/wp-content/themes/storecommerce/demo-content/default/storecommerce.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+AFTSC Social Contacts - No Title - Imported
+AFTSC Author Info - No Title - Imported
+
+Off-canvas Panel : 
+
+Product Categories - Product categories - Imported
+
+Static Frontpage Section : 
+
+AFTSC Product Category Grid - No Title - Imported
+AFTSC Store Features - No Title - Imported
+AFTSC Tabbed Products Carousel - No Title - Imported
+AFTSC Store Offers - No Title - Imported
+AFTSC Product Grid - No Title - Imported
+AFTSC Call to Action - No Title - Imported
+AFTSC Product Carousel - No Title - Imported
+AFTSC Latest Posts - No Title - Imported
+
+Store Sidebar : 
+
+AFTSC Product Carousel - No Title - Imported
+AFTSC Store Offers - No Title - Imported
+AFTSC Social Contacts - No Title - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Attribute - Filter by - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Rating - Average rating - Imported
+Products by Rating - Top rated products - Imported
+Products - Products - Imported
+Recent Product Reviews - Recent reviews - Imported
+Products - Products - Imported
+yith-woocompare-widget - No Title - Site does not support widget
+
+Footer First Section : 
+
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+
+Footer Second Section : 
+
+Products - Products - Imported
+
+Footer Third Section : 
+
+Products - On Sale Products - Imported
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
